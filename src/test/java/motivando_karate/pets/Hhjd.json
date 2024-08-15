@@ -1,0 +1,320 @@
+[
+  {
+    "id": 9223372016854961972,
+    "name": "mydoggie",
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 3112,
+    "category": {
+      "id": 0,
+      "name": "Red deer"
+    },
+    "name": "Lucious",
+    "photoUrls": [
+      "https://pbs.twimg.com/profile_images/948294484596375552/RyGNqDEM_400x400.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "green eyes"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 1257,
+    "category": {
+      "id": 194,
+      "name": "Squid"
+    },
+    "name": "Hattie",
+    "photoUrls": [
+      "https://pbs.twimg.com/profile_images/948294484596375552/RyGNqDEM_400x400.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "green eyes"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9,
+    "category": {
+      "id": 0,
+      "name": "cats"
+    },
+    "name": "King Kong",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 105,
+    "category": {
+      "id": 75,
+      "name": "John"
+    },
+    "name": "John",
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 12,
+    "category": {
+      "id": 0,
+      "name": "dogs"
+    },
+    "name": "Fido",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9222968140497367270,
+    "category": {
+      "id": 123,
+      "name": "Category1"
+    },
+    "name": "doggietest",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 1984,
+    "category": {
+      "id": 63,
+      "name": "Salmon"
+    },
+    "name": "Zola",
+    "photoUrls": [
+      "https://pbs.twimg.com/profile_images/948294484596375552/RyGNqDEM_400x400.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "green eyes"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 1692,
+    "category": {
+      "id": 0,
+      "name": "Eagle"
+    },
+    "name": "Tracey",
+    "photoUrls": [
+      "https://pbs.twimg.com/profile_images/948294484596375552/RyGNqDEM_400x400.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "green eyes"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372016854962548,
+    "category": {
+      "id": 56425022,
+      "name": "dol"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "irure Duis aliquip",
+      "velit fugiat in"
+    ],
+    "tags": [
+      {
+        "id": 8252994,
+        "name": "dolor amet"
+      },
+      {
+        "id": 45116039,
+        "name": "in ea quis"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 13068621,
+    "category": {
+      "id": 22294195,
+      "name": "in anim ea"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "nostrud sed id",
+      "commodo laborum"
+    ],
+    "tags": [
+      {
+        "id": 20825034,
+        "name": "dolor nulla aliquip"
+      },
+      {
+        "id": 77099988,
+        "name": "do adipisicing dolor ad"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372016854962560,
+    "category": {
+      "id": -78160617,
+      "name": "ut in dolor"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "est Lorem",
+      "exercitation minim"
+    ],
+    "tags": [
+      {
+        "id": -9951088,
+        "name": "eu dolore"
+      },
+      {
+        "id": 73630427,
+        "name": "culpa mollit"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 87705905,
+    "category": {
+      "id": 22032096,
+      "name": "reprehenderit in minim"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "cillum Ut ",
+      "et adipisicing consequat"
+    ],
+    "tags": [
+      {
+        "id": -14103627,
+        "name": "reprehenderit"
+      },
+      {
+        "id": 47181501,
+        "name": "occaecat"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 38480305,
+    "category": {
+      "id": -59161747,
+      "name": "Duis voluptate consequat"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "ex enim ",
+      "nisi est"
+    ],
+    "tags": [
+      {
+        "id": 49121599,
+        "name": "non anim exercitation"
+      },
+      {
+        "id": 2672065,
+        "name": "sint"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 4049856,
+    "category": {
+      "id": 19680611,
+      "name": "esse"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "incididunt dolore qui sit",
+      "proident qui Ut minim ullamco"
+    ],
+    "tags": [
+      {
+        "id": -69579116,
+        "name": "ea deserunt"
+      },
+      {
+        "id": 49174622,
+        "name": "occaecat Duis eu est Lorem"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372016854962565,
+    "category": {
+      "id": 14693763,
+      "name": "dolore laborum cillum"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "labore aliquip",
+      "fugiat dolor commodo mollit id"
+    ],
+    "tags": [
+      {
+        "id": -57621507,
+        "name": "commodo cupidatat"
+      },
+      {
+        "id": 66737527,
+        "name": "cupidatat proident ut"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 790,
+    "category": {
+      "id": 2,
+      "name": "cat2"
+    },
+    "name": "Tom",
+    "photoUrls": [
+      "https://pbs.twimg.com/profile_images/948294484596375552/RyGNqDEM_400x400.jpg"
+    ],
+    "tags": [
+      {
+        "id": 600,
+        "name": "blabla1"
+      }
+    ],
+    "status": "sold"
+  }
+]

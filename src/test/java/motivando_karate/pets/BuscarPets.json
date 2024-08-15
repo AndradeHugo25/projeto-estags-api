@@ -1,0 +1,143 @@
+[
+  {
+    "id": 50431139,
+    "category": {
+      "id": 54426127,
+      "name": "laboris sunt"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "in anim",
+      "tempor reprehenderit occaecat"
+    ],
+    "tags": [
+      {
+        "id": 8867719,
+        "name": "elit laboris exercitation reprehenderit sint"
+      },
+      {
+        "id": 37883831,
+        "name": "consequat sunt officia quis"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 221023111,
+    "category": {
+      "id": 1,
+      "name": "Generic"
+    },
+    "name": "Ferret",
+    "photoUrls": [
+      "img1"
+    ],
+    "tags": [
+      {
+        "id": 11,
+        "name": "Default Tag"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 9223372016854961055,
+    "name": "",
+    "photoUrls": [],
+    "tags": [],
+    "status": "pending"
+  },
+  {
+    "id": 4937,
+    "name": "",
+    "photoUrls": [
+      "\uD840\uDDF09",
+      "",
+      "J×%;ð\uDBD3\uDF04Ì¸\uDBF3\uDD28ª"
+    ],
+    "tags": [],
+    "status": "pending"
+  },
+  {
+    "id": 7470706065598697274,
+    "name": "\uDBD5\uDFA8¢³fØ",
+    "photoUrls": [
+      "\uDBEE\uDC30\u0003",
+      "l »T"
+    ],
+    "tags": [],
+    "status": "pending"
+  },
+  {
+    "id": 9223372016854961119,
+    "category": {
+      "id": 61
+    },
+    "name": "",
+    "photoUrls": [
+      "Ç|\u0014",
+      "\u001CäYB\uD97D\uDC47\u0016"
+    ],
+    "tags": [
+      {
+        "id": 98,
+        "name": "\uD993\uDD55g:K\uD8FE\uDE28\uD957\uDF89"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 9223372016854961258,
+    "category": {
+      "id": 10,
+      "name": "Family Smith"
+    },
+    "name": "Karlsson",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 9223372016854961440,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "GoldenRetriever",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 8675309,
+    "category": {
+      "id": 0,
+      "name": "string9 or 1 < (select case when 1=1 then upper(hex(randomblob(300000000))) else 0 end)"
+    },
+    "name": "GoldenRetriever",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  }
+]

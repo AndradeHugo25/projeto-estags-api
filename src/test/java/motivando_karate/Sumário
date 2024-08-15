@@ -1,0 +1,22 @@
+LINKS
+- https://petstore.swagger.io/#/
+- https://github.com/karatelabs/karate
+
+1. Estrutura Básica
+    - Web, Webservices, Desktop
+    - Estrutura do projeto
+    - Comentários
+    - URL + Requisitos + Método
+    - Métodos
+        - PUT, POST, PATCH (request {})
+        - GET (param)
+        - DELETE
+        - Palavras reservadas
+          - url, path, param, header, request, method, status, response, match, assert
+    - Validações
+        - tags
+2. Interação com arquivos
+	- json
+	- feature chamando feature
+3. Interação com Java
+    - métodos e variáveis static
